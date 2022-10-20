@@ -1,12 +1,13 @@
-package com.mrtd2.BitiMRTD.Reader;
+package com.nashid.mrtd2.BitiMRTD.Reader;
 
 import android.util.Log;
 
-import com.mrtd2.BitiAndroid.TagProvider;
-import com.mrtd2.BitiMRTD.NFC.Apdu;
-import com.mrtd2.BitiMRTD.NFC.Doc9303Apdu;
-import com.mrtd2.BitiMRTD.Tools.Crypto;
-import com.mrtd2.BitiMRTD.Tools.Tools;
+
+import com.nashid.mrtd2.BitiAndroid.TagProvider;
+import com.nashid.mrtd2.BitiMRTD.NFC.Apdu;
+import com.nashid.mrtd2.BitiMRTD.NFC.Doc9303Apdu;
+import com.nashid.mrtd2.BitiMRTD.Tools.Crypto;
+import com.nashid.mrtd2.BitiMRTD.Tools.Tools;
 
 import java.lang.ref.WeakReference;
 import java.util.Arrays;

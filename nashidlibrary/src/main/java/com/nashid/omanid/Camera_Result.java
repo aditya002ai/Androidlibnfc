@@ -1,4 +1,4 @@
-package com.omanid;
+package com.nashid.omanid;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -9,6 +9,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.caverock.androidsvg.SVG;
 import com.caverock.androidsvg.SVGImageView;
+import com.nashid.R;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

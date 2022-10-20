@@ -1,4 +1,4 @@
-package com.mrtd2.BitiAndroid;
+package com.nashid.mrtd2.BitiAndroid;
 
 import android.app.AlertDialog;
 import android.app.PendingIntent;
@@ -13,7 +13,7 @@ import android.provider.Settings;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.omanid.R;
+import com.nashid.R;
 
 
 public abstract class AbstractNfcActivity extends AppCompatActivity
@@ -88,8 +88,8 @@ public abstract class AbstractNfcActivity extends AppCompatActivity
         }
     }
 
-    public void onNewIntent(Intent intent)
-    {
+    public void onNewIntent(Intent intent) {
+        super.onNewIntent(intent);
         Tag tagFromIntent = intent.getParcelableExtra(NfcAdapter.EXTRA_TAG);
         TagProvider.setTag(IsoDep.get(tagFromIntent));
         System.out.println("Got new intent!");

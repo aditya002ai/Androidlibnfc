@@ -1,8 +1,9 @@
-package com.mrtd2.requestResponse;
+package com.nashid.mrtd2.requestResponse;
 
 import android.content.Context;
 
-import com.mrtd2.interfaceClass.RequestResponse;
+
+import com.nashid.interfaceClass.RequestResponse;
 
 import org.json.JSONException;
 import org.json.JSONObject;

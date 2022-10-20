@@ -1,4 +1,4 @@
-package com.omanid;
+package com.nashid.omanid;
 
 import static androidx.constraintlayout.widget.Constraints.TAG;
 

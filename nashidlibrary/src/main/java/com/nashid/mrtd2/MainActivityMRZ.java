@@ -1,4 +1,4 @@
-package com.mrtd2;
+package com.nashid.mrtd2;
 
 import android.app.DatePickerDialog;
 import android.content.Context;
@@ -17,10 +17,11 @@ import android.widget.ImageView;
 
 import com.caverock.androidsvg.SVG;
 import com.caverock.androidsvg.SVGImageView;
-import com.mrtd2.BitiAndroid.AbstractNfcActivity;
-import com.omanid.ComparisionSuccessful;
-import com.omanid.R;
-import com.omanid.Utility;
+import com.nashid.R;
+import com.nashid.mrtd2.BitiAndroid.AbstractNfcActivity;
+import com.nashid.omanid.ComparisionSuccessful;
+import com.nashid.omanid.Utility;
+
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

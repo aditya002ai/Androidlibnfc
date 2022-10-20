@@ -1,11 +1,7 @@
-package com.omanid;
+package com.nashid.omanid;
 
 //public class VisionLibrary {
 //}
-
-import static android.os.Environment.getExternalStorageDirectory;
-
-import static java.io.File.separator;
 
 import android.Manifest;
 import android.content.Intent;
@@ -28,6 +24,7 @@ import com.google.android.gms.vision.CameraSource;
 import com.google.android.gms.vision.Detector;
 import com.google.android.gms.vision.text.TextBlock;
 import com.google.android.gms.vision.text.TextRecognizer;
+import com.nashid.R;
 
 import java.io.File;
 import java.io.FileOutputStream;

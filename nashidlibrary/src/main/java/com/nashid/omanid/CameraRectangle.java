@@ -1,12 +1,9 @@
-package com.omanid;
+package com.nashid.omanid;
 
 //public class VisionLibrary {
 //}
 
-import static com.omanid.ComparisionSuccessful.MRZ_RESULT;
-
 import android.Manifest;
-import android.app.Activity;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.content.res.Resources;
@@ -25,7 +22,6 @@ import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 import android.view.View;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -35,8 +31,7 @@ import com.google.android.gms.vision.CameraSource;
 import com.google.android.gms.vision.Detector;
 import com.google.android.gms.vision.text.TextBlock;
 import com.google.android.gms.vision.text.TextRecognizer;
-
-import org.jmrtd.lds.icao.MRZInfo;
+import com.nashid.R;
 
 import java.io.File;
 import java.io.FileOutputStream;

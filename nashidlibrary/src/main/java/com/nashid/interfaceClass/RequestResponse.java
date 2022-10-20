@@ -1,4 +1,4 @@
-package com.interfaceClass;
+package com.nashid.interfaceClass;
 
 import org.json.JSONArray;
 import org.json.JSONObject;

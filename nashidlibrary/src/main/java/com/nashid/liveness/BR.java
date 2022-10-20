@@ -1,4 +1,4 @@
-package com.liveness;
+package com.nashid.liveness;
 
 public class BR {
     public static final int _all = 0;

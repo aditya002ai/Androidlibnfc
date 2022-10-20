@@ -1,14 +1,15 @@
-package com.omanid;
-
-import androidx.appcompat.app.AppCompatActivity;
+package com.nashid.omanid;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import androidx.appcompat.app.AppCompatActivity;
+
 import com.caverock.androidsvg.SVG;
 import com.caverock.androidsvg.SVGImageView;
+import com.nashid.R;
 
 public class SelectDocumentActivity extends AppCompatActivity {
     SVGImageView SplachScreen,dropdown1,dropdown2,dropdown3;

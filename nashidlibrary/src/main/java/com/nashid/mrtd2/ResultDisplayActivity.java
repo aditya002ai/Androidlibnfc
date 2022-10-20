@@ -1,26 +1,25 @@
-package com.mrtd2;
+package com.nashid.mrtd2;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.os.Bundle;
-
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
-import android.widget.Toolbar;
 
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
 import androidx.viewpager.widget.ViewPager;
 
-import com.mrtd2.BitiAndroid.AbstractNfcActivity;
-import com.mrtd2.BitiMRTD.Parser.DG1Parser;
-import com.mrtd2.BitiMRTD.Parser.DG2Parser;
-import com.mrtd2.BitiMRTD.Parser.EFSODParser;
-import com.omanid.LivenessActivity;
-import com.omanid.LivenessData;
-import com.omanid.R;
+
+import com.nashid.LivenessActivity;
+import com.nashid.R;
+import com.nashid.mrtd2.BitiAndroid.AbstractNfcActivity;
+import com.nashid.mrtd2.BitiMRTD.Parser.DG1Parser;
+import com.nashid.mrtd2.BitiMRTD.Parser.DG2Parser;
+import com.nashid.mrtd2.BitiMRTD.Parser.EFSODParser;
+import com.nashid.omanid.LivenessData;
 
 import java.io.Serializable;
 import java.text.SimpleDateFormat;

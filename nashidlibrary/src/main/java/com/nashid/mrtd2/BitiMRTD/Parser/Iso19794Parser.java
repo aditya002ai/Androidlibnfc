@@ -1,10 +1,11 @@
-package com.mrtd2.BitiMRTD.Parser;
+package com.nashid.mrtd2.BitiMRTD.Parser;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.util.Log;
 
-import com.mrtd2.BitiMRTD.Tools.Tools;
+
+import com.nashid.mrtd2.BitiMRTD.Tools.Tools;
 
 import org.jmrtd.jj2000.JJ2000Decoder;
 

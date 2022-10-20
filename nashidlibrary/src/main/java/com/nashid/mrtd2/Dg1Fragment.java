@@ -1,4 +1,4 @@
-package com.mrtd2;
+package com.nashid.mrtd2;
 
 
 import android.app.Activity;
@@ -12,7 +12,8 @@ import android.widget.ListView;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
-import com.omanid.R;
+
+import com.nashid.R;
 
 import java.util.ArrayList;
 

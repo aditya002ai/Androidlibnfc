@@ -1,4 +1,4 @@
-package com.mrtd2;
+package com.nashid.mrtd2;
 
 import android.app.Activity;
 import android.content.Context;
@@ -12,7 +12,7 @@ import android.widget.ImageView;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
-import com.omanid.R;
+import com.nashid.R;
 
 
 public class Dg2Fragment extends Fragment

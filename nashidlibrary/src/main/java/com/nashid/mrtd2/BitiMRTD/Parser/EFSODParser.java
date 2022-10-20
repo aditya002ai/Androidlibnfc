@@ -1,9 +1,10 @@
-package com.mrtd2.BitiMRTD.Parser;
+package com.nashid.mrtd2.BitiMRTD.Parser;
 
 import android.util.Log;
 
-import com.mrtd2.BitiMRTD.Converter.ASN1Converter;
-import com.mrtd2.BitiMRTD.Tools.Tools;
+
+import com.nashid.mrtd2.BitiMRTD.Converter.ASN1Converter;
+import com.nashid.mrtd2.BitiMRTD.Tools.Tools;
 
 import org.spongycastle.asn1.icao.LDSSecurityObject;
 import org.spongycastle.asn1.x500.AttributeTypeAndValue;

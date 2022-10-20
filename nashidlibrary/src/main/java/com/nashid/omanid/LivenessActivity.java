@@ -1,4 +1,4 @@
-package com.omanid;
+package com.nashid.omanid;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -22,11 +22,11 @@ import android.widget.Toast;
 import androidx.annotation.Nullable;
 import androidx.annotation.RequiresApi;
 
-
-import com.MyUtils;
-import com.interfaceClass.RequestResponse;
 import com.liveness.LivenessMainActivity;
-import com.requestResponse.OkHttpRequestResponse;
+import com.nashid.MyUtils;
+import com.nashid.R;
+import com.nashid.interfaceClass.RequestResponse;
+import com.nashid.requestResponse.OkHttpRequestResponse;
 
 import org.json.JSONArray;
 import org.json.JSONException;

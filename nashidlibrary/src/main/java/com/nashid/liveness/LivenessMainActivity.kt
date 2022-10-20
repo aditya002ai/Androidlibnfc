@@ -9,7 +9,6 @@ import android.Manifest
 import android.animation.ObjectAnimator
 import android.animation.ValueAnimator
 import android.annotation.TargetApi
-import android.content.Intent
 import android.content.pm.PackageManager
 import android.graphics.ImageFormat
 import android.graphics.Rect
@@ -26,10 +25,10 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
 import com.mv.livebodyexample.EngineWrapper
-import com.omanid.LivenessActivity
-import com.omanid.R
-import com.omanid.Utility
-import com.omanid.databinding.LivenessActivityMainBinding
+import com.nashid.R
+import com.nashid.databinding.LivenessActivityMainBinding
+import com.nashid.omanid.Utility
+
 import kotlinx.android.synthetic.main.camerarectange.*
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.ObsoleteCoroutinesApi

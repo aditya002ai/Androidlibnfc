@@ -1,4 +1,4 @@
-package com.mrtd2;
+package com.nashid.mrtd2;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -7,7 +7,8 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
-import com.omanid.R;
+
+import com.nashid.R;
 
 import java.util.ArrayList;
 

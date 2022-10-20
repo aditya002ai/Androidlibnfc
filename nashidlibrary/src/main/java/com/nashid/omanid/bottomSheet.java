@@ -1,4 +1,4 @@
-//package com.omanid;
+package com.nashid.omanid;//package com.omanid;
 //
 //import androidx.appcompat.app.AppCompatActivity;
 //

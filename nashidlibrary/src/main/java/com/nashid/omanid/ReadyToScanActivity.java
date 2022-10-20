@@ -1,11 +1,12 @@
-package com.omanid;
-
-import androidx.appcompat.app.AppCompatActivity;
+package com.nashid.omanid;
 
 import android.os.Bundle;
 
+import androidx.appcompat.app.AppCompatActivity;
+
 import com.caverock.androidsvg.SVG;
 import com.caverock.androidsvg.SVGImageView;
+import com.nashid.R;
 
 public class ReadyToScanActivity extends AppCompatActivity {
     SVGImageView logo,nfclogo;

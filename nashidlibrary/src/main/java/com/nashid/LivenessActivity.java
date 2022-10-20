@@ -1,6 +1,4 @@
-package com;
-
-import androidx.appcompat.app.AppCompatActivity;
+package com.nashid;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -8,8 +6,10 @@ import android.graphics.Matrix;
 import android.os.Bundle;
 import android.widget.ImageView;
 
-import com.omanid.R;
-import com.omanid.Utility;
+import androidx.appcompat.app.AppCompatActivity;
+
+import com.nashid.omanid.Utility;
+
 
 public class LivenessActivity extends AppCompatActivity {
 

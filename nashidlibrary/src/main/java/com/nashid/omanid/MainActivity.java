@@ -1,13 +1,14 @@
-package com.omanid;
-
-import androidx.appcompat.app.AppCompatActivity;
+package com.nashid.omanid;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 
+import androidx.appcompat.app.AppCompatActivity;
+
 import com.caverock.androidsvg.SVG;
 import com.caverock.androidsvg.SVGImageView;
+import com.nashid.R;
 
 public class MainActivity extends AppCompatActivity {
     SVGImageView SplachScreen;

@@ -1,4 +1,4 @@
-package com.omanid;
+package com.nashid.omanid;
 
 import android.app.Activity;
 import android.graphics.drawable.Drawable;
@@ -6,6 +6,7 @@ import android.graphics.drawable.GradientDrawable;
 import android.widget.ImageView;
 
 import com.bumptech.glide.Glide;
+import com.nashid.R;
 
 public class Utility {
     private static final Utility ourInstance = new Utility();

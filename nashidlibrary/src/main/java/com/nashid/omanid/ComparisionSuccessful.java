@@ -1,4 +1,4 @@
-package com.omanid;
+package com.nashid.omanid;
 
 
 import android.Manifest;
@@ -18,16 +18,13 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;
-import androidx.core.content.ContextCompat;
 
 import com.caverock.androidsvg.SVG;
 import com.caverock.androidsvg.SVGImageView;
-import com.liveness.LivenessMainActivity;
-import com.mrtd2.MainActivityMRZ;
+import com.nashid.R;
+import com.nashid.mrtd2.MainActivityMRZ;
 
 import org.jmrtd.lds.icao.MRZInfo;
-
-import java.io.IOException;
 
 public class ComparisionSuccessful extends AppCompatActivity {
     SVGImageView logo, dropdown1, dropdown2, dropdown3, certificate;

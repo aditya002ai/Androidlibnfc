@@ -1,4 +1,4 @@
-package com.omanid;
+package com.nashid.omanid;
 
 import android.content.Context;
 import android.graphics.Bitmap;

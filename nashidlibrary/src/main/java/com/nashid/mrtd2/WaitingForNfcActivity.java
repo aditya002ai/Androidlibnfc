@@ -1,4 +1,4 @@
-package com.mrtd2;
+package com.nashid.mrtd2;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -8,9 +8,10 @@ import android.widget.TextView;
 
 import com.caverock.androidsvg.SVG;
 import com.caverock.androidsvg.SVGImageView;
-import com.mrtd2.BitiAndroid.AbstractNfcActivity;
-import com.mrtd2.BitiAndroid.TagProvider;
-import com.omanid.R;
+import com.nashid.R;
+import com.nashid.mrtd2.BitiAndroid.AbstractNfcActivity;
+import com.nashid.mrtd2.BitiAndroid.TagProvider;
+
 
 import java.io.Serializable;
 

@@ -1,4 +1,4 @@
-package com.omanid;
+package com.nashid.omanid;
 
 public class AgencyData {
     private String WebsiteAddress;

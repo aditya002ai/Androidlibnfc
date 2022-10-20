@@ -4,13 +4,14 @@ import android.graphics.Rect
 import androidx.databinding.BaseObservable
 import androidx.databinding.Bindable
 import com.mv.engine.FaceBox
+import com.nashid.liveness.BR
 
-//import com.liveness.engine.FaceBox
 
 class DetectionResult(): BaseObservable() {
 
     @get:Bindable
     var left: Int = 0
+
         set(value) {
             field = value
             notifyPropertyChanged(BR.left)

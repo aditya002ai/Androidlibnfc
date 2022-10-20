@@ -1,4 +1,4 @@
-package com;
+package com.nashid;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -11,8 +11,8 @@ import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.os.Handler;
 
-import com.omanid.MainActivity;
-import com.omanid.R;
+
+import com.nashid.omanid.MainActivity;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

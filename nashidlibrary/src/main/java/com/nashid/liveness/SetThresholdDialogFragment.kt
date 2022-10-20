@@ -9,8 +9,9 @@ import androidx.databinding.BaseObservable
 import androidx.databinding.Bindable
 import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.DialogFragment
-import com.omanid.R
-import com.omanid.databinding.DialogSetThresholdBinding
+import com.nashid.R
+import com.nashid.databinding.DialogSetThresholdBinding
+import com.nashid.liveness.BR
 
 //import com.liveness.databinding.DialogSetThresholdBinding
 

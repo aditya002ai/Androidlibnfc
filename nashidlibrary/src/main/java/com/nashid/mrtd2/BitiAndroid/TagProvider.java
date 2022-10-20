@@ -1,4 +1,4 @@
-package com.mrtd2.BitiAndroid;
+package com.nashid.mrtd2.BitiAndroid;
 
 import android.nfc.TagLostException;
 import android.nfc.tech.IsoDep;

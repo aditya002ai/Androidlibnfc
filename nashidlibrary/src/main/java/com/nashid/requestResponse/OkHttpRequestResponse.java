@@ -1,14 +1,14 @@
-package com.requestResponse;
+package com.nashid.requestResponse;
 
 import android.content.Context;
 import android.os.Handler;
 import android.os.Looper;
 import android.util.Log;
 import android.widget.Toast;
+;
 
-import com.MyUtils;
-import com.interfaceClass.RequestResponse;
-import com.omanid.LogService;
+import com.nashid.MyUtils;
+import com.nashid.interfaceClass.RequestResponse;
 
 import org.json.JSONException;
 import org.json.JSONObject;

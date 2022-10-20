@@ -1,6 +1,7 @@
-package com.mrtd2.BitiMRTD.Parser;
+package com.nashid.mrtd2.BitiMRTD.Parser;
 
-import com.mrtd2.BitiMRTD.Tools.Tools;
+
+import com.nashid.mrtd2.BitiMRTD.Tools.Tools;
 
 import java.util.Arrays;
 

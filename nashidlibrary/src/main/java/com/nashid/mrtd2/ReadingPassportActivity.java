@@ -1,4 +1,4 @@
-package com.mrtd2;
+package com.nashid.mrtd2;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
@@ -8,17 +8,18 @@ import android.os.Bundle;
 import android.view.MenuItem;
 import android.widget.ProgressBar;
 
-import com.mrtd2.BitiAndroid.AbstractNfcActivity;
-import com.mrtd2.BitiAndroid.TagProvider;
-import com.mrtd2.BitiMRTD.Constants.MrtdConstants;
-import com.mrtd2.BitiMRTD.Parser.DG1Parser;
-import com.mrtd2.BitiMRTD.Reader.AbstractReader;
-import com.mrtd2.BitiMRTD.Reader.BacInfo;
-import com.mrtd2.BitiMRTD.Reader.DESedeReader;
-import com.mrtd2.BitiMRTD.Reader.ProgressListenerInterface;
-import com.mrtd2.BitiMRTD.Tools.Tools;
-import com.omanid.LivenessData;
-import com.omanid.R;
+
+import com.nashid.R;
+import com.nashid.mrtd2.BitiAndroid.AbstractNfcActivity;
+import com.nashid.mrtd2.BitiAndroid.TagProvider;
+import com.nashid.mrtd2.BitiMRTD.Constants.MrtdConstants;
+import com.nashid.mrtd2.BitiMRTD.Parser.DG1Parser;
+import com.nashid.mrtd2.BitiMRTD.Reader.AbstractReader;
+import com.nashid.mrtd2.BitiMRTD.Reader.BacInfo;
+import com.nashid.mrtd2.BitiMRTD.Reader.DESedeReader;
+import com.nashid.mrtd2.BitiMRTD.Reader.ProgressListenerInterface;
+import com.nashid.mrtd2.BitiMRTD.Tools.Tools;
+import com.nashid.omanid.LivenessData;
 
 import java.io.Serializable;
 import java.lang.ref.WeakReference;

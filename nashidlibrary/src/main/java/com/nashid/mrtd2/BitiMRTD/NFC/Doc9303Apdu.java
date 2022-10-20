@@ -1,7 +1,7 @@
-package com.mrtd2.BitiMRTD.NFC;
+package com.nashid.mrtd2.BitiMRTD.NFC;
 
 
-import com.mrtd2.BitiMRTD.Tools.Tools;
+import com.nashid.mrtd2.BitiMRTD.Tools.Tools;
 
 public class Doc9303Apdu
 {
