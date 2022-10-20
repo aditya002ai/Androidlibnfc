@@ -83,21 +83,25 @@
             </intent-filter>
         </activity>
         <activity android:name="com.liveness.LivenessMainActivity"
+            android:exported="false"
             android:screenOrientation="portrait"
             />
 
         <activity android:name=".omanid.LivenessActivity"
+            android:exported="false"
             android:screenOrientation="portrait"
             />
 
         <activity
             android:name=".omanid.SelectDocumentActivity"
+
             android:exported="true" />
         <activity
             android:name=".omanid.Vision_id"
             android:screenOrientation="portrait" />
         <activity
             android:name=".omanid.CameraRectangle"
+            android:exported="false"
             android:screenOrientation="portrait" />
         <activity
             android:name=".mrtd2.MainActivityMRZ"
